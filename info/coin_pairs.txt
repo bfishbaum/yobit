@@ -1,0 +1,5 @@
+usd_btc
+btc_eth
+btc_ltc
+btc_trump
+btc_chess
